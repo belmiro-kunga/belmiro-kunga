@@ -5,7 +5,7 @@
 ⭐ I'm a  <br>
 💻 I'm Full Stack Developerr and Instructor at [Proativa Company](https://seja-pro.coms)
 that has been working as a fornt-and develeper since 2017<br>
-🏡 Angolan![image](https://user-images.githubusercontent.com/24614505/109971933-0b1abc80-7cf7-11eb-8198-b4f7f5cab1cf.png)
+🏡 Angolan![image](https://user-images.githubusercontent.com/24614505/109971933-0b1abc80-7cf7-11eb-8198-b4f7f5cab1cf.png width="30px)
 , Based in Luanda, I have the prospect of traveling around the world 🌎
 I'm passionate about solving proble aand learning. Always open to new challenges and ready to face changes .
 
