@@ -11,7 +11,7 @@ I'm passionate about solving proble aand learning. Always open to new challenges
 ### You can find me on
 
 📺 [Youtube](https://www.youtube.com/channel/UCW8jjYy3GBYfo3TVzF_WCNw) <br>
-🐦 [Twitter](https://twitter.com/Willian_justen) <br>
+🐦 [Twitter](https://twitter.com/belmiro_kunga) <br>
 📷 [linkedin](https://www.linkedin.com/in/belmiro-m-kunga/) <br>
 🆔 [faceboock](https://www.facebook.com/profile.php?id=100010300410305) <br>
 
