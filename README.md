@@ -18,12 +18,11 @@ I'm passionate about solving proble aand learning. Always open to new challenges
 
 
 ### programming language I have experience ###
-**Java Scrip**
+**JavaScrip**
 **Python**
-**C ++**
+**C++**
 **Dart**
 **PHP**
-**Swift**
 ### Framework that I have as a work tool ###
 **React**
 **React Native**
@@ -33,7 +32,7 @@ I'm passionate about solving proble aand learning. Always open to new challenges
 **Bootstrap**
 **Jquery**
 ### Back end technologies ###
-**Node Js**
+**NodeJs**
 **Laravel**
 **Django**
 **Unreal Engine**
