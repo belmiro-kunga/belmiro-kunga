@@ -19,7 +19,7 @@ I'm passionate about solving proble aand learning. Always open to new challenges
 
 ### programming language I have experience ###
 **JavaScrip**
-**Python**
+**C#**
 **C++**
 **Dart**
 **PHP**
@@ -34,7 +34,6 @@ I'm passionate about solving proble aand learning. Always open to new challenges
 ### Back end technologies ###
 **NodeJs**
 **Laravel**
-**Django**
 **Unreal Engine**
 
 ### Data Base###
