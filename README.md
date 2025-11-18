@@ -10,10 +10,9 @@ I'm passionate about solving proble aand learning. Always open to new challenges
 
 ### You can find me on
 
-📺 [Youtube](https://www.youtube.com/channel/UCW8jjYy3GBYfo3TVzF_WCNw) <br>
-🐦 [Twitter](https://twitter.com/belmiro_kunga) <br>
-📷 [linkedin](https://www.linkedin.com/in/belmiro-m-kunga/) <br>
-🆔 [faceboock](https://www.facebook.com/profile.php?id=100010300410305) <br>
+📺 [Youtube](https://www.youtube.com/channel/UCeRHg_6cJ1tgQFmyWldGccQ) <br>
+📷 [linkedin](https://www.linkedin.com/in/belmiro-kunga-835a99310/) <br>
+
 
 
 
